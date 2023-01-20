@@ -22,5 +22,3 @@ To train CNN:
 
     python attention_map_vit.py
     python class_activation_map_cnn.py
-
-
